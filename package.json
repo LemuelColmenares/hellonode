@@ -1,0 +1,27 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es el primer pryecyo con JS en openbotcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemuelColmenares/probandoOpenBootacamp.git"
+  },
+  "keywords": [
+    "Este",
+    "de",
+    "viene",
+    "de",
+    "open",
+    "bootcamp"
+  ],
+  "author": "Lemuel Colmenares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemuelColmenares/probandoOpenBootacamp/issues"
+  },
+  "homepage": "https://github.com/LemuelColmenares/probandoOpenBootacamp#readme"
+}
